@@ -5,7 +5,7 @@ Note:Pada domain free plan (mis. *.free.nf, *.epizy.com) InfinityFree menaruh ha
 Klien non-browser seperti Postman/cURL/Android app tidak bisa melewati JS-Challenge ini, sehingga mendapat respon:
 “This site requires Javascript to work…” Saat melakukan GET pada Postman.
 Artinya: endpoint API di free hosting memang diblokir oleh lapisan proteksi tersebut. Tidak bisa mematikannya di paket gratis.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1291b99-7b29-462a-8ef0-f5c307829dbb" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9b09784e-7289-4085-af6d-10d4957fef14" />
 
 index.php:
 <img width="1755" height="813" alt="image" src="https://github.com/user-attachments/assets/93dace46-e66a-4abe-8f38-d0d7b2238001" />
