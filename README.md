@@ -7,6 +7,8 @@ Klien non-browser seperti Postman/cURL/Android app tidak bisa melewati JS-Challe
 Artinya: endpoint API di free hosting memang diblokir oleh lapisan proteksi tersebut. Tidak bisa mematikannya di paket gratis.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1291b99-7b29-462a-8ef0-f5c307829dbb" />
 
+index.php:
+<img width="1755" height="813" alt="image" src="https://github.com/user-attachments/assets/93dace46-e66a-4abe-8f38-d0d7b2238001" />
 
 https://rezandi.free.nf/Api.php/records/customers
 <img width="1755" height="1076" alt="image" src="https://github.com/user-attachments/assets/0a11b87c-f35f-4704-8a28-b2108ef5186c" />
